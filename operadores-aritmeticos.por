@@ -1,8 +1,6 @@
 programa {
   funcao inicio() {
     
-  }
-}
 //declaração de variavel
 real valorA, valorB
 
@@ -18,3 +16,6 @@ escreva("A subtração de A e B: ",(valorA - valorB))
 escreva("A multiplicação de A e B: ",(valorA * valorB))
 escreva("A divisão de A e B: ",(valorA / valorB))
 escreva("O resto de A e B: ",(valorA % valorB))
+
+  }
+}
