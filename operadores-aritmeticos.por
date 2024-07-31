@@ -12,10 +12,10 @@ leia(valorB)
 
 //Operaçôes aritméticas
 escreva("A soma de A e B: ",(valorA + valorB))
-escreva("A subtração de A e B: ",(valorA - valorB))
-escreva("A multiplicação de A e B: ",(valorA * valorB))
-escreva("A divisão de A e B: ",(valorA / valorB))
-escreva("O resto de A e B: ",(valorA % valorB))
+escreva("\nA subtração de A e B: ",(valorA - valorB))
+escreva("\nA multiplicação de A e B: ",(valorA * valorB))
+escreva("\nA divisão de A e B: ",(valorA / valorB))
+escreva("\nO resto de A e B: ",(valorA % valorB))
 
   }
 }
